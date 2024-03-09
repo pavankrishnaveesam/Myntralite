@@ -1,0 +1,176 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "pname": "Blue pant",
+      "pdesc": "Casual blue pant made of cotton fabric",
+      "pimg": "https://assets.ajio.com/medias/sys_master/root/20240110/GcDE/659ebbbf74cb305fe010901c/-1117Wx1400H-469586625-blue-MODEL.jpg",
+      "price": "3000",
+      "size": [
+        "M",
+        "XXL",
+        "L"
+      ],
+      "catid": "1"
+    },
+    {
+      "id": "2",
+      "pname": "Denim Jeans",
+      "pdesc": "Classic denim jeans with a straight fit",
+      "pimg": "https://www.rockstarjeans.com/cdn/shop/files/8_12.jpg?v=1693639777&width=246",
+      "price": "3500",
+      "size": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "catid": "1"
+    },
+    {
+      "id": "3",
+      "pname": "Red Dress",
+      "pdesc": "Elegant red dress suitable for parties",
+      "pimg": "https://rukminim2.flixcart.com/image/832/832/l2c753k0/dress/n/w/n/s-lbw-06-london-belly-original-imagdpdftnkarvv6.jpeg?q=70&crop=true",
+      "price": "5000",
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "catid": "2"
+    },
+    {
+      "id": "4",
+      "pname": "High Heels",
+      "pdesc": "Stylish high heels for women",
+      "pimg": "https://m.media-amazon.com/images/I/419ZcmLlIdL._SX695_.jpg",
+      "price": "4500",
+      "size": [
+        "5",
+        "6",
+        "7"
+      ],
+      "catid": "5"
+    },
+    {
+      "id": "5",
+      "pname": "Kids' T-Shirt",
+      "pdesc": "Colorful t-shirt for kids",
+      "pimg": "https://m.media-amazon.com/images/I/71g-kePFA4L._SX679_.jpg",
+      "price": "1500",
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "catid": "3"
+    },
+    {
+      "id": "6",
+      "pname": "Kids' Shorts",
+      "pdesc": "Comfortable shorts for kids",
+      "pimg": "https://m.media-amazon.com/images/I/71Rst2-tQOL._SX679_.jpg",
+      "price": "2000",
+      "size": [
+        "4",
+        "6",
+        "8"
+      ],
+      "catid": "3"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "uname": "pavan@gmail.com",
+      "password": "Pavan@123"
+    },
+    {
+      "id": "2",
+      "uname": "example@example.com",
+      "password": "Example@123"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "catname": "mensClothing"
+    },
+    {
+      "id": "2",
+      "catname": "WomensClothing"
+    },
+    {
+      "id": "3",
+      "catname": "boysclothing"
+    },
+    {
+      "id": "4",
+      "catname": "girlsclothing"
+    },
+    {
+      "id": "5",
+      "catname": "footwear"
+    },
+    {
+      "id": "6",
+      "catname": "handbags"
+    }
+  ],
+  "carts": [
+    [],
+    [
+      {
+        "id": "1ci",
+        "userid": "1uid",
+        "pid": "1",
+        "qty": "3",
+        "amount": 9000
+      }
+    ],
+    [
+      {
+        "id": "2ci",
+        "userid": "2uid",
+        "pid": "2",
+        "qty": "2",
+        "amount": 7000
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "id": "1ci",
+        "userid": "1uid",
+        "pid": "1",
+        "qty": "2",
+        "amount": 6000
+      }
+    ],
+    [
+      {
+        "id": "4ci",
+        "userid": "4uid",
+        "pid": "4",
+        "qty": "2",
+        "amount": 9000
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "id": "1ci",
+        "userid": "1uid",
+        "pid": "1",
+        "qty": 4,
+        "amount": 12000
+      }
+    ]
+  ],
+  "orders": []
+}

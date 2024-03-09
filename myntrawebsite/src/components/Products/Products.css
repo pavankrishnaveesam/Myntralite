@@ -1,0 +1,62 @@
+.card
+{
+    border: 1px solid gray;
+    width : 270px;
+   height: 480px !important;
+   /* margin: 5px;*/
+    text-align: center;
+    padding : 5px; 
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card  img
+{
+    width : 260px; 
+    height: 200px;
+    /*-radius: 100px;*/
+    padding : 1px;
+    /* border: 1px solid gray; */
+}
+
+.card img:hover
+{
+    box-shadow: 1px 1px 30px black;  
+}
+.dname{
+    color: black;
+    font-size: 33;
+}
+.desgn
+{
+    color : gray;
+    font-size:  15px;
+    margin: 0px;    
+}
+.btn-outline{
+    background-color:#ed2866;
+    border-Radius: 2.5px;
+    border-color: #ed2866;
+    color: white;
+    margin-left: 40px;
+    margin-bottom: 5px;
+    width: 180px;   
+    text-decoration: none;
+    cursor: pointer;
+    padding: 5px 5px;
+}
+.btn-outline:hover{
+    background-color: #b71548;
+}
+.btn-outline-grey{
+    background-color: rgb(243, 238, 238);
+    border-radius: 2.5px;
+    border-color: black;
+    margin-left: 40px;
+    margin-bottom: 5px;
+    width: 180px;
+    cursor: pointer;
+    padding: 5px 5px;
+}
